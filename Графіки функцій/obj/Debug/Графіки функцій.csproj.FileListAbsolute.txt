@@ -1,0 +1,9 @@
+C:\Users\Коля\Desktop\Графіки функцій\bin\Debug\Графіки функцій.exe.config
+C:\Users\Коля\Desktop\Графіки функцій\bin\Debug\Графіки функцій.exe
+C:\Users\Коля\Desktop\Графіки функцій\bin\Debug\Графіки функцій.pdb
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.csprojAssemblyReference.cache
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки_функцій.Form1.resources
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки_функцій.Properties.Resources.resources
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.csproj.GenerateResource.cache
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.exe
+C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.pdb
