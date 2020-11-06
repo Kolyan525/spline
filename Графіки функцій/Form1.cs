@@ -90,5 +90,12 @@ namespace Графіки_функцій
             //else
             //    this.chart1.Series[2].Points.Clear();
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            trapeze tr = new trapeze();
+            tr.ShowDialog();
+        }
     }
 }

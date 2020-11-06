@@ -7,3 +7,13 @@ C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки
 C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.csproj.GenerateResource.cache
 C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.exe
 C:\Users\Коля\Desktop\Графіки функцій\obj\Debug\Графіки функцій.pdb
+E:\C#\spline\Графіки функцій\bin\Debug\Графіки функцій.exe.config
+E:\C#\spline\Графіки функцій\bin\Debug\Графіки функцій.exe
+E:\C#\spline\Графіки функцій\bin\Debug\Графіки функцій.pdb
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки функцій.csprojAssemblyReference.cache
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки_функцій.Form1.resources
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки_функцій.Properties.Resources.resources
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки функцій.csproj.GenerateResource.cache
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки функцій.exe
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки функцій.pdb
+E:\C#\spline\Графіки функцій\obj\Debug\Графіки_функцій.trapeze.resources

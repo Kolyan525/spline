@@ -1,0 +1,9 @@
+E:\C#\spline\Trapeze\bin\Debug\Trapeze.exe.config
+E:\C#\spline\Trapeze\bin\Debug\Trapeze.exe
+E:\C#\spline\Trapeze\bin\Debug\Trapeze.pdb
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.csprojAssemblyReference.cache
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.Form1.resources
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.Properties.Resources.resources
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.csproj.GenerateResource.cache
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.exe
+E:\C#\spline\Trapeze\obj\Debug\Trapeze.pdb
