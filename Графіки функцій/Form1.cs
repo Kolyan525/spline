@@ -96,6 +96,7 @@ namespace Графіки_функцій
             this.Hide();
             trapeze tr = new trapeze();
             tr.ShowDialog();
+            this.Close();
         }
     }
 }
